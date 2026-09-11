@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://arabicmastery.foundation/</loc>
+    <loc>https://arabicmasteryapp.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://arabicmastery.foundation/offer</loc>
+    <loc>https://arabicmasteryapp.com/offer</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://arabicmastery.foundation/privacy</loc>
+    <loc>https://arabicmasteryapp.com/privacy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://arabicmastery.foundation/payment</loc>
+    <loc>https://arabicmasteryapp.com/payment</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://arabicmastery.foundation/support</loc>
+    <loc>https://arabicmasteryapp.com/support</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://arabicmastery.foundation/seller</loc>
+    <loc>https://arabicmasteryapp.com/seller</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
